@@ -1,0 +1,45 @@
+_repo: A-Wonder-Book-and-Tanglewood-TalesFor-girls-and-boys_35377
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Parrish, Maxfield
+    birthdate: 1870
+    deathdate: 1966
+    gutenberg_agent_id: '9605'
+    url: http://www.gutenberg.org/2009/agents/9605
+    wikipedia: http://en.wikipedia.org/wiki/Maxfield_Parrish
+covers:
+- cover_type: archival
+  image_path: 35377-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hawthorne, Nathaniel
+    birthdate: 1804
+    deathdate: 1864
+    gutenberg_agent_id: '28'
+    url: http://www.gutenberg.org/2009/agents/28
+    wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Hawthorne
+description: Cover; A Wonder Book And Tanglewood Tales For Girls And Boys; Copyright;
+  Preface; Contents; A Wonder Book; The Gorgon's Head; The Golden Touch; The Paradise
+  Of Children; The Three Golden Apples; The Miraculous Pitcher; The Chimaera; Tanglewood
+  Tales; The Wayside; The Minotaur; The Pygmies; The Dragon's Teeth; Circe's Palace;
+  The Pomegranate Seeds; The Golden Fleece.
+gutenberg_issued: '2011-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35377'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mythology, Greek'
+- !lcc 'BL'
+- !lcsh 'Mythology, Greek -- Juvenile literature'
+- !lcc 'PZ'
+tableOfContents: 'A Wonder Book: The Gorgon''s head. The golden touch. The paradise
+  of children. The three golden apples. The miraculous pitcher. The Chimaera -- Tanglewood
+  Tales: The wayside. The Minotaur. The Pygmies. The dragon''s teeth. Circe''s palace.
+  The pomegranate seeds. The Golden Fleece.'
+title: A Wonder Book and Tanglewood Tales, for Girls and Boys
+url: http://www.gutenberg.org/ebooks/35377
